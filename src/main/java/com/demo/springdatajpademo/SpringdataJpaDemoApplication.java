@@ -1,0 +1,12 @@
+package com.demo.springdatajpademo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringdataJpaDemoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringdataJpaDemoApplication.class, args);
+	}
+}
